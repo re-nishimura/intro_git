@@ -4,7 +4,3 @@
 - リージョンは国ごとに存在する
 - リージョンの中に複数のアベイラビリティゾーンがある
 - VPCを作ることでAWS上に仮想ネットワークを作る
-
-git config --global url." https://".insteadOf git://
-
-git config --global http.sslVerify false
